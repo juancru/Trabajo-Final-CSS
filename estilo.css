@@ -1,0 +1,42 @@
+body
+  {
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+  color: white;
+  text-shadow:  #02010a, 2px;
+  background: #02010a;
+  }
+
+header
+    {
+      background: gray;
+      border-top-right-radius: 10px;
+      border-top-left-radius: 10px;
+      margin: 0%, 20%, 5%, 20%;
+    }
+
+#cabecera
+      {
+        margin-left: 2%;
+      }
+
+nav
+  {
+    font-size: 24px;
+    text-align: right;
+    margin-right: 2%;
+    margin-bottom: 30%;
+  }
+
+figure
+  {
+    background: #82c3a6;
+    margin: 20%;
+    align-content: center;
+    width: 80%;
+  }
+#puertas
+  {
+    width: 80%;
+    margin:
+  }
